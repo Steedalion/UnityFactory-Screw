@@ -44,10 +44,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   name: Drill
-  packageType: 2
-  itemPrefab: {fileID: 1000012695253110, guid: f5a2d19d564785d45a6207078113bcaa, type: 3}
+  packageType: 1
+  itemPrefab: {fileID: 77300337866548434, guid: 2640ce0ad778c794caafede6ad579238,
+    type: 3}
   otherHandItemPrefab: {fileID: 0}
-  previewPrefab: {fileID: 1000012695253110, guid: f5a2d19d564785d45a6207078113bcaa,
+  previewPrefab: {fileID: 77300337866548434, guid: 2640ce0ad778c794caafede6ad579238,
     type: 3}
   fadedPreviewPrefab: {fileID: 5223649613064311239, guid: d8bf6e5260be26c4d9923f006a3cf06e,
     type: 3}
